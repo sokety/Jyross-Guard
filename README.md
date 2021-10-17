@@ -1,2 +1,4 @@
 # Jyross-Guard
-bulursam daha vericem size
+takıntılı olduğum kişinin guardı
+
+ayarlar.jsonu doldur ve npm install de botu başlat biti
